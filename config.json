@@ -30,7 +30,7 @@
     "drawingProperties": {
 	  "font": "Frakturiert", 
       "defaultEdgeType": "curve",
-	  "defaults.global.defaultFontFamily": "Georgia",
+
 	  "hoverFont": "Frakturiert",
       "defaultHoverLabelBGColor": "#000",
       "defaultLabelBGColor": "#ddd",
